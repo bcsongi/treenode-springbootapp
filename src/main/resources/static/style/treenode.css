@@ -1,0 +1,32 @@
+.myjstree-grayish
+{
+    color: #D3D3D3;
+    font-weight: 500;
+}
+
+.jstree-anchor 
+{
+    font-weight: 700;
+}
+	
+.container-fluid 
+{
+    padding:10px;
+}
+
+.jsTreeRow 
+{
+    margin-right:0;
+}
+
+#guiMainContentId
+{
+    min-height: 64px;
+}
+
+@media screen and (max-width: 768px) {
+    #findFieldId 
+    {
+            max-width: 204px;
+    }
+}
